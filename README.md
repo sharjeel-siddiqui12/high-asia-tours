@@ -1,4 +1,4 @@
-                           
+<!--                            
 ![Awesome ReadME](https://raw.githubusercontent.com/ParasSalunke/Tourist-Travel-Agency-Website/main/travel-agency-react-template.jpg)
  
 # Tourist - Travel Agency React Website
@@ -49,4 +49,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. -->
